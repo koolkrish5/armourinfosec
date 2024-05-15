@@ -1,0 +1,29 @@
+repository = folders in github
+
+https://github.com
+
+steps:-
+
+> sign up or log in
+
+> create github repository
+
+> add and commit
+   ^^^^^^^^^^
+__ commit is used to take the screenshot type thing or save it ..
+__ we could use HTML in github to make any changes ..
+
+> now downlaod VS CODE and  GIT BASH to operate github
+
+(root repository = main repository)
+(REPOSITORY = folder)
+________________________________________________________________________________
+
+# BASIC COMMANDS IN GITHUB
+
+1) CLONE = making duplicate or COPY something .... - git clone folder/file ..
+ 
+> copy the repos file on your github account and type on terminal of vs code == git clone --copied link--
+                                                                                          ________________
+
+   
